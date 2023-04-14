@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jessica Monzerrat Medina Carrillo</h1>
+<h1 align="center">Hi 👋, I'm Jessica Medina </h1>
 <h3 align="center">I really like Programming, Design and Cybersecurity, I specialized in the development of web pages as Full-Stack.</h3>
 
 - 🌱 I’m currently learning **Front-End with HTML, CSS and JavaScript in a TecnoLochicas course together with Microsoft and Back-End in Java and Spring Framework with Alura and Oracle Next Education.**
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFAOhrIm9I/TO0KaduE1o7MjchJs5LisA/edit?utm_content=DAFAOhrIm9I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFAOhrIm9I/TO0KaduE1o7MjchJs5LisA/edit?utm_content=DAFAOhrIm9I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **I am a dedicated, responsible, creative, collaborative, demanding and committed person with my work.**
+- ⚡ **I am a dedicated, responsible, creative, collaborative, demanding and committed person with my work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
